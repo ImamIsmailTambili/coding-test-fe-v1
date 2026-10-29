@@ -1,4 +1,4 @@
-# IMAMISMAIL APP — Product & User Dashboard
+# Coding Test v1
 
 Aplikasi dashboard berbasis web yang dikembangkan menggunakan Next.js dan TypeScript untuk menampilkan serta mengelola tampilan data produk dan pengguna melalui REST API DummyJSON. Proyek ini dibuat sebagai bagian dari coding test untuk posisi **Front-End Engineer**, dengan fokus pada reusable components, pemisahan logic dan UI, validasi data, serta pengalaman pengguna yang responsif.
 
